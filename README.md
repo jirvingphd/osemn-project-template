@@ -1,12 +1,3 @@
-# RESOURCES FOR YOU 
-
-- [OVERVIEW OF OSEMiN](#OVERVIEW-OF-OSEMiN)
-- [PROCESS-CHECKLIST](#PROCESS-CHECKLIST)
-    - Can actually keep this part if you'd like.
-- [LINKS FOR MOD 1 PROJECT](#LINKS-FOR-MOD-1-PROJECT)
-
-</div>
-
 # OVERVIEW OF OSEMiN
 
     
