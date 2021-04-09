@@ -11,7 +11,7 @@ The contents of this repository detail an analysis of the module one project. Th
 Here is where you state the business problem you were trying to solve
 
 
-### Datax
+### Data:
 Data can include source and high-level description (e.g. # obs)
 
 
@@ -25,13 +25,13 @@ Data can include source and high-level description (e.g. # obs)
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1
-<img src="./images/visual1.png">
+#### Visual 1 Title
+<img src="./images/visual1.png" width=90%>
 
 > Sentence about visualization.
 
-#### Visual 2
-<img src="./images/visual2.png" width=70%>
+#### Visual 2 Title
+<img src="./images/visual2.png" width=90%>
 
 > Sentence about visualization.
 
